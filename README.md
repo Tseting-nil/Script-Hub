@@ -5,7 +5,8 @@
 | 遊戲名稱 (Game) | 遊戲連結 (Roblox Link) | 說明文件 (繁體中文) | Documentation (English) |
 | :--- | :---: | :---: | :---: |
 | **Havoc** | [Play Game](https://www.roblox.com/games/13927562399) | [閱讀說明](Havoc/Havoc.md) | [Read Docs](Havoc/Havoc_en.md) |
-| **TTK (Testing-nil)** | [Play Game](https://www.roblox.com/games/120189115846709) | [閱讀說明](TTK/TTK.md) | [Read Docs](TTK/TTK_en.md) |
+| **Deadline** | [Play Game](https://www.roblox.com/games/12144402492) | [閱讀說明](Deadline/Deadline.md) | [Read Docs](Deadline/Deadline_en.md) |
+| **TTK** | [Play Game](https://www.roblox.com/games/120189115846709) | [閱讀說明](TTK/TTK.md) | [Read Docs](TTK/TTK_en.md) |
 
 ## 快速開始 (Quick Start)
 
